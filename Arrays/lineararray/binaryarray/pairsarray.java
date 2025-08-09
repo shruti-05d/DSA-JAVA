@@ -1,4 +1,4 @@
-
+//tc  O(n^2)
 import java.util.*;
 public class pairsarray{
     public static void pairs(int numbers[]){
