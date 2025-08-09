@@ -14,7 +14,7 @@ return largest;
     public static void main(String args[]){
         int number[]={1,2,3,4,5,6};
         int largest = getLargest(number);
-        System.out.println("Largest number is: " + largest);
+        System.out.println("Largest number is: " +  getLargest(number));
 
 
 
